@@ -1,0 +1,4 @@
+This is version B of the file.
+Some content here.
+New line that was changed.
+Extra line added in B.

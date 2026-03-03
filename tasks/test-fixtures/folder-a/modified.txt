@@ -1,0 +1,3 @@
+This is version A of the file.
+Some content here.
+Old line that will change.
